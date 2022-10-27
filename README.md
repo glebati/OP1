@@ -19,7 +19,7 @@
 
 | id | login | email | password |
 
-- id : INT(11), PRIMARY KEY, AUTO_INCREMENT
+- id : INT, PRIMARY KEY, AUTO_INCREMENT
 (уникальный идентификатор пользователя)
 - login : VARCHAR(250), по умолчанию NULL
 (логин)
